@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Day 01a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day01a.py",
             "console": "integratedTerminal",
@@ -14,7 +14,7 @@
         },
         {
             "name": "Day 01a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day01a.py",
             "console": "integratedTerminal",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Day 01b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day01b.py",
             "console": "integratedTerminal",
@@ -30,7 +30,7 @@
         },
         {
             "name": "Day 01b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day01b.py",
             "console": "integratedTerminal",
@@ -38,7 +38,7 @@
         },
         {
             "name": "Day 02a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day02a.py",
             "console": "integratedTerminal",
@@ -46,7 +46,7 @@
         },
         {
             "name": "Day 02a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day02a.py",
             "console": "integratedTerminal",
@@ -54,7 +54,7 @@
         },
         {
             "name": "Day 02b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day02b.py",
             "console": "integratedTerminal",
@@ -62,7 +62,7 @@
         },
         {
             "name": "Day 02b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day02b.py",
             "console": "integratedTerminal",
@@ -70,7 +70,7 @@
         },
         {
             "name": "Day 03a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day03a.py",
             "console": "integratedTerminal",
@@ -78,7 +78,7 @@
         },
         {
             "name": "Day 03a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day03a.py",
             "console": "integratedTerminal",
@@ -86,7 +86,7 @@
         },
         {
             "name": "Day 03b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day03b.py",
             "console": "integratedTerminal",
@@ -94,7 +94,7 @@
         },
         {
             "name": "Day 03b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day03b.py",
             "console": "integratedTerminal",
@@ -102,7 +102,7 @@
         },
         {
             "name": "Day 04a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day04a.py",
             "console": "integratedTerminal",
@@ -110,7 +110,7 @@
         },
         {
             "name": "Day 04a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day04a.py",
             "console": "integratedTerminal",
@@ -118,7 +118,7 @@
         },
         {
             "name": "Day 04b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day04b.py",
             "console": "integratedTerminal",
@@ -126,7 +126,7 @@
         },
         {
             "name": "Day 04b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day04b.py",
             "console": "integratedTerminal",
@@ -134,7 +134,7 @@
         },
         {
             "name": "Day 05a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day05a.py",
             "console": "integratedTerminal",
@@ -142,7 +142,7 @@
         },
         {
             "name": "Day 05a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day05a.py",
             "console": "integratedTerminal",
@@ -150,7 +150,7 @@
         },
         {
             "name": "Day 05b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day05b.py",
             "console": "integratedTerminal",
@@ -158,7 +158,7 @@
         },
         {
             "name": "Day 05b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day05b.py",
             "console": "integratedTerminal",
@@ -166,7 +166,7 @@
         },
         {
             "name": "Day 06a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day06a.py",
             "console": "integratedTerminal",
@@ -174,7 +174,7 @@
         },
         {
             "name": "Day 06a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day06a.py",
             "console": "integratedTerminal",
@@ -182,7 +182,7 @@
         },
         {
             "name": "Day 06b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day06b.py",
             "console": "integratedTerminal",
@@ -190,7 +190,7 @@
         },
         {
             "name": "Day 06b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day06b.py",
             "console": "integratedTerminal",
@@ -198,15 +198,23 @@
         },
         {
             "name": "Day 07a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day07a.py",
             "console": "integratedTerminal",
             "args": [ "<", "${workspaceFolder}/.inputs/day07_test.txt"]
         },
         {
+            "name": "Day 07a : Debug",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/day07a.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day07_debug.txt"]
+        },
+        {
             "name": "Day 07a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day07a.py",
             "console": "integratedTerminal",
@@ -214,7 +222,7 @@
         },
         {
             "name": "Day 07b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day07b.py",
             "console": "integratedTerminal",
@@ -222,7 +230,7 @@
         },
         {
             "name": "Day 07b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day07b.py",
             "console": "integratedTerminal",
@@ -230,7 +238,7 @@
         },
         {
             "name": "Day 08a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day08a.py",
             "console": "integratedTerminal",
@@ -238,7 +246,7 @@
         },
         {
             "name": "Day 08a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day08a.py",
             "console": "integratedTerminal",
@@ -246,7 +254,7 @@
         },
         {
             "name": "Day 08b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day08b.py",
             "console": "integratedTerminal",
@@ -254,7 +262,7 @@
         },
         {
             "name": "Day 08b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day08b.py",
             "console": "integratedTerminal",
@@ -262,7 +270,7 @@
         },
         {
             "name": "Day 09a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day09a.py",
             "console": "integratedTerminal",
@@ -270,7 +278,7 @@
         },
         {
             "name": "Day 09a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day09a.py",
             "console": "integratedTerminal",
@@ -278,7 +286,7 @@
         },
         {
             "name": "Day 09b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day09b.py",
             "console": "integratedTerminal",
@@ -286,7 +294,7 @@
         },
         {
             "name": "Day 09b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day09b.py",
             "console": "integratedTerminal",
@@ -294,7 +302,7 @@
         },
         {
             "name": "Day 10a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day10a.py",
             "console": "integratedTerminal",
@@ -302,7 +310,7 @@
         },
         {
             "name": "Day 10a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day10a.py",
             "console": "integratedTerminal",
@@ -310,7 +318,7 @@
         },
         {
             "name": "Day 10b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day10b.py",
             "console": "integratedTerminal",
@@ -318,7 +326,7 @@
         },
         {
             "name": "Day 10b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day10b.py",
             "console": "integratedTerminal",
@@ -326,7 +334,7 @@
         },
         {
             "name": "Day 11a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day11a.py",
             "console": "integratedTerminal",
@@ -334,7 +342,7 @@
         },
         {
             "name": "Day 11a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day11a.py",
             "console": "integratedTerminal",
@@ -342,7 +350,7 @@
         },
         {
             "name": "Day 11b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day11b.py",
             "console": "integratedTerminal",
@@ -350,7 +358,7 @@
         },
         {
             "name": "Day 11b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day11b.py",
             "console": "integratedTerminal",
@@ -358,7 +366,7 @@
         },
         {
             "name": "Day 12a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day12a.py",
             "console": "integratedTerminal",
@@ -366,7 +374,7 @@
         },
         {
             "name": "Day 12a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day12a.py",
             "console": "integratedTerminal",
@@ -374,7 +382,7 @@
         },
         {
             "name": "Day 12b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day12b.py",
             "console": "integratedTerminal",
@@ -382,7 +390,7 @@
         },
         {
             "name": "Day 12b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day12b.py",
             "console": "integratedTerminal",
@@ -390,7 +398,7 @@
         },
         {
             "name": "Day 13a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day13a.py",
             "console": "integratedTerminal",
@@ -398,7 +406,7 @@
         },
         {
             "name": "Day 13a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day13a.py",
             "console": "integratedTerminal",
@@ -406,7 +414,7 @@
         },
         {
             "name": "Day 13b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day13b.py",
             "console": "integratedTerminal",
@@ -414,7 +422,7 @@
         },
         {
             "name": "Day 13b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day13b.py",
             "console": "integratedTerminal",
@@ -422,7 +430,7 @@
         },
         {
             "name": "Day 14a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day14a.py",
             "console": "integratedTerminal",
@@ -430,7 +438,7 @@
         },
         {
             "name": "Day 14a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day14a.py",
             "console": "integratedTerminal",
@@ -438,7 +446,7 @@
         },
         {
             "name": "Day 14b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day14b.py",
             "console": "integratedTerminal",
@@ -446,7 +454,7 @@
         },
         {
             "name": "Day 14b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day14b.py",
             "console": "integratedTerminal",
@@ -454,7 +462,7 @@
         },
         {
             "name": "Day 15a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day15a.py",
             "console": "integratedTerminal",
@@ -462,7 +470,7 @@
         },
         {
             "name": "Day 15a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day15a.py",
             "console": "integratedTerminal",
@@ -470,7 +478,7 @@
         },
         {
             "name": "Day 15b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day15b.py",
             "console": "integratedTerminal",
@@ -478,7 +486,7 @@
         },
         {
             "name": "Day 15b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day15b.py",
             "console": "integratedTerminal",
@@ -486,7 +494,7 @@
         },
         {
             "name": "Day 16a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day16a.py",
             "console": "integratedTerminal",
@@ -494,7 +502,7 @@
         },
         {
             "name": "Day 16a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day16a.py",
             "console": "integratedTerminal",
@@ -502,7 +510,7 @@
         },
         {
             "name": "Day 16b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day16b.py",
             "console": "integratedTerminal",
@@ -510,7 +518,7 @@
         },
         {
             "name": "Day 16b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day16b.py",
             "console": "integratedTerminal",
@@ -518,7 +526,7 @@
         },
         {
             "name": "Day 17a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day17a.py",
             "console": "integratedTerminal",
@@ -526,7 +534,7 @@
         },
         {
             "name": "Day 17a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day17a.py",
             "console": "integratedTerminal",
@@ -534,7 +542,7 @@
         },
         {
             "name": "Day 17b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day17b.py",
             "console": "integratedTerminal",
@@ -542,7 +550,7 @@
         },
         {
             "name": "Day 17b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day17b.py",
             "console": "integratedTerminal",
@@ -550,7 +558,7 @@
         },
         {
             "name": "Day 18a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day18a.py",
             "console": "integratedTerminal",
@@ -558,7 +566,7 @@
         },
         {
             "name": "Day 18a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day18a.py",
             "console": "integratedTerminal",
@@ -566,7 +574,7 @@
         },
         {
             "name": "Day 18b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day18b.py",
             "console": "integratedTerminal",
@@ -574,7 +582,7 @@
         },
         {
             "name": "Day 18b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day18b.py",
             "console": "integratedTerminal",
@@ -582,7 +590,7 @@
         },
         {
             "name": "Day 19a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day19a.py",
             "console": "integratedTerminal",
@@ -590,7 +598,7 @@
         },
         {
             "name": "Day 19a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day19a.py",
             "console": "integratedTerminal",
@@ -598,7 +606,7 @@
         },
         {
             "name": "Day 19b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day19b.py",
             "console": "integratedTerminal",
@@ -606,7 +614,7 @@
         },
         {
             "name": "Day 19b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day19b.py",
             "console": "integratedTerminal",
@@ -614,7 +622,7 @@
         },
         {
             "name": "Day 20a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day20a.py",
             "console": "integratedTerminal",
@@ -622,7 +630,7 @@
         },
         {
             "name": "Day 20a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day20a.py",
             "console": "integratedTerminal",
@@ -630,7 +638,7 @@
         },
         {
             "name": "Day 20b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day20b.py",
             "console": "integratedTerminal",
@@ -638,7 +646,7 @@
         },
         {
             "name": "Day 20b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day20b.py",
             "console": "integratedTerminal",
@@ -646,7 +654,7 @@
         },
         {
             "name": "Day 21a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day21a.py",
             "console": "integratedTerminal",
@@ -654,7 +662,7 @@
         },
         {
             "name": "Day 21a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day21a.py",
             "console": "integratedTerminal",
@@ -662,7 +670,7 @@
         },
         {
             "name": "Day 21b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day21b.py",
             "console": "integratedTerminal",
@@ -670,7 +678,7 @@
         },
         {
             "name": "Day 21b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day21b.py",
             "console": "integratedTerminal",
@@ -678,7 +686,7 @@
         },
         {
             "name": "Day 22a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day22a.py",
             "console": "integratedTerminal",
@@ -686,7 +694,7 @@
         },
         {
             "name": "Day 22a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day22a.py",
             "console": "integratedTerminal",
@@ -694,7 +702,7 @@
         },
         {
             "name": "Day 22b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day22b.py",
             "console": "integratedTerminal",
@@ -702,7 +710,7 @@
         },
         {
             "name": "Day 22b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day22b.py",
             "console": "integratedTerminal",
@@ -710,7 +718,7 @@
         },
         {
             "name": "Day 23a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day23a.py",
             "console": "integratedTerminal",
@@ -718,7 +726,7 @@
         },
         {
             "name": "Day 23a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day23a.py",
             "console": "integratedTerminal",
@@ -726,7 +734,7 @@
         },
         {
             "name": "Day 23b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day23b.py",
             "console": "integratedTerminal",
@@ -734,7 +742,7 @@
         },
         {
             "name": "Day 23b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day23b.py",
             "console": "integratedTerminal",
@@ -742,7 +750,7 @@
         },
         {
             "name": "Day 24a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day24a.py",
             "console": "integratedTerminal",
@@ -750,7 +758,7 @@
         },
         {
             "name": "Day 24a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day24a.py",
             "console": "integratedTerminal",
@@ -758,7 +766,7 @@
         },
         {
             "name": "Day 24b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day24b.py",
             "console": "integratedTerminal",
@@ -766,7 +774,7 @@
         },
         {
             "name": "Day 24b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day24b.py",
             "console": "integratedTerminal",
@@ -774,7 +782,7 @@
         },
         {
             "name": "Day 25a : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day25a.py",
             "console": "integratedTerminal",
@@ -782,7 +790,7 @@
         },
         {
             "name": "Day 25a",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day25a.py",
             "console": "integratedTerminal",
@@ -790,7 +798,7 @@
         },
         {
             "name": "Day 25b : Test",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day25b.py",
             "console": "integratedTerminal",
@@ -798,7 +806,7 @@
         },
         {
             "name": "Day 25b",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/day25b.py",
             "console": "integratedTerminal",
